@@ -1,6 +1,6 @@
 # Factorial Calculation - Java
 
-You can calculate factorials of you have entered numbers.
+You can calculate factorials of your entered numbers.
 
 ## Enter this commands to terminal:
 
